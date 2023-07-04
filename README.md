@@ -1,3 +1,2 @@
 # Ingenieria de Software
-
 Este repositorio el proyecto integrador de Ingenieria de Software, donde se nos pidio diseñar una página web donde Beto, dueño de Micheladas Locas, necesita un sistema web para administrar su negocio y ofrecer servicio a domicilio. El sistema tendrá tres roles: administrador, vendedor y cliente. El administrador puede gestionar vendedores, clientes, productos, inventario y reportes de ventas. Los vendedores pueden atender pedidos, gestionar inventario y buscar clientes registrados. Los clientes pueden registrarse, hacer pedidos y seguir su estado. El sistema debe ser fácil de usar y tener una interfaz atractiva.
